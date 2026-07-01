@@ -4,7 +4,7 @@
 #     print(f"Contador: {contador}")
 #     contador += 1 g
 
-
+#darksource 
 #     # const idade = 18
 
 #     # pode_dirigir = idade > 18 ? "sim " "nao":
@@ -68,11 +68,43 @@
 # else:
 #     print("é igual")
 
-n1 = int(input())
-n2 = int(input())
-n3 = int(input())
-n4 = int(input())
-if (n1, n2, n3, n4) <= 12:
-    print("é criança")
-else:
-    print("adulto")
+# n1 = int(input())
+# n2 = int(input())
+# n3 = int(input())
+# n4 = int(input())
+# if (n1, n2, n3, n4) <= 12:
+#     print("é criança")
+# else:
+#     print("adulto")
+
+
+# lista = []
+
+# # Preenche a lista com 5 números
+# for i in range(5):
+#     numero = int(input("Digite um número: "))
+#     lista.append(numero)
+
+# # Lê o valor que será procurado
+# x = int(input("Digite o número que deseja procurar: "))
+
+# # Procura o número na lista
+# posicao = -1
+
+# for i in range(5):
+#     if lista[i] == x:
+#         posicao = i
+#         break
+
+# print(posicao)
+
+lista = []
+for i in range(2):
+    n = int(input())
+    lista.append(numero)
+
+x = int(input(n procurado))
+posicao = -1
+
+for i in range(5):
+
